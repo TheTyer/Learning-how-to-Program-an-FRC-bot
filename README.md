@@ -1,2 +1,2 @@
-# Programming-a-SIM-Motor
-My attempt at getting a SIM motor working to get familair with command based programming
+# Learning how to Program an FRC bot
+My attempt at programming a FRC robot in driver control and autonomous.
